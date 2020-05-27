@@ -1,0 +1,6 @@
+# Referenced at D:\Files\Professional\Projects\App Dev\mi_card_flutter\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:24
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Files\Professional\Projects\App Dev\mi_card_flutter\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:29
+-keep class co.appbrewery.micard.MainActivity { <init>(); }
+# Referenced at D:\Files\Professional\Projects\App Dev\mi_card_flutter\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:24
+-keep class io.flutter.app.FlutterApplication { <init>(); }
